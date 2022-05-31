@@ -1,4 +1,4 @@
-# hanasaku.github.io.git
+# hanasaku.github.io
 
 ## Project setup
 ```
